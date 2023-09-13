@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sanctuary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sanctuary_jar</output-path>
+    <root id="archive" name="sanctuary.jar">
+      <element id="module-output" name="sanctuary" />
+    </root>
+  </artifact>
+</component>
